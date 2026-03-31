@@ -1,7 +1,7 @@
 # Agent Skills
 
-Code review agent
+Pull request review agent
 
 ```
-npx skills@latest add imran-vz/skills/code-review
+npx skills@latest add imran-vz/skills/pr-review
 ```
